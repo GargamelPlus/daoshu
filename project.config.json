@@ -1,0 +1,127 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.3.0",
+	"appid": "wxce22041fc5a141ab",
+	"projectname": "%E5%80%92%E6%95%B0%E4%BA%BA%E7%94%9F%201.0.1",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 13,
+			"list": [
+				{
+					"id": -1,
+					"name": "用户",
+					"pathName": "pages/user/user",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "最酷",
+					"pathName": "pages/logs/logs",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "cool",
+					"pathName": "pages/cool/cool",
+					"query": ""
+				},
+				{
+					"id": 3,
+					"name": "新建",
+					"pathName": "pages/build/build",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "info",
+					"pathName": "pages/information/information",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "首页",
+					"pathName": "pages/index/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "detail",
+					"pathName": "pages/detail/detail",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "share",
+					"pathName": "pages/share/share",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "余生分享",
+					"pathName": "pages/surplusShare/surplusShare",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "审核",
+					"pathName": "pages/examine/examine",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "demo",
+					"pathName": "pages/demo/demo",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "主页",
+					"pathName": "pages/homepage/homepage",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "homeShare",
+					"pathName": "pages/homeShare/homeShare",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "homePage",
+					"pathName": "pages/homepage/homepage"
+				}
+			]
+		}
+	}
+}

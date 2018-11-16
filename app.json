@@ -1,0 +1,51 @@
+{
+  "pages":[
+    "pages/homepage/homepage",
+    "pages/homeShare/homeShare",
+    "pages/login/login",
+    "pages/index/index",
+    "pages/user/user",
+    "pages/logs/logs",
+    "pages/cool/cool",
+    "pages/build/build",
+    "pages/detail/detail",
+    "pages/share/share",
+    "pages/logDetail/logDetail",
+    "pages/surplusDetail/surplusDetail",
+    "pages/surplusShare/surplusShare",
+    "pages/examine/examine",
+    "pages/demo/demo"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#149cff",
+    "navigationBarTitleText": "时间",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#60a9d1",
+    "backgroundColor": "#efefef",
+    "borderStyle": "black",
+    "list": [
+      {
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "images/home_no.png",
+      "selectedIconPath": "images/home.png"
+    },
+    {
+      "pagePath": "pages/user/user",
+      "text": "我的",
+      "iconPath": "images/user_no.png",
+      "selectedIconPath": "images/user.png"
+    },
+    {
+      "pagePath": "pages/logs/logs",
+      "text": "最酷",
+      "iconPath": "images/logs_no.png",
+      "selectedIconPath": "images/logs.png"
+    }
+    ]
+  }
+}
